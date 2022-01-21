@@ -6,6 +6,8 @@
 
    python3 -m pip install uiautomator2
 
+   电脑adb连接手机
+
    python3 u2.py
 
 3. 需求环境
